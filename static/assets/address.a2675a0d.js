@@ -1,0 +1,1 @@
+import{s as t}from"./request.58213615.js";function r(e){return t({url:"/wallet/address",method:"post",data:e})}function d(e){return t({url:"/wallet/address",method:"delete",params:{id:e}})}function l(e){return t({url:"/wallet/address",method:"get",params:e})}export{r as a,d as b,l as w};

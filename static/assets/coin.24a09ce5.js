@@ -1,0 +1,1 @@
+import{s as r}from"./request.58213615.js";function e(t){return r({url:"/coin/list",method:"get",params:t})}function n(t){return r({url:"/coin/rate",method:"get",params:t})}function i(t){return r({url:"/coin/rate/list",method:"get",params:t})}export{i as a,n as b,e as c};
